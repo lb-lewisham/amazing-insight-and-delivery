@@ -8,6 +8,7 @@
 * [principles and algorithms](https://cartography-playground.gitlab.io/) - some approachs to mapping data 
 * [multivariate dot density mapping](http://andrewgaidus.com/Dot_Density_County_Maps/) - showing many groups at once
 * [cartography guide](https://www.axismaps.com/guide) - insights and tips for designing maps
+* [backofyourhand](https://backofyourhand.com/51.44523,-0.01957/EMUSLX) - test your street knowledge
 
 ### chatbots
 * [council chatbots](https://futr.ai/ai-in-local-government-3-fascinating-examples/?hss_channel=tw-992422381699371013)
@@ -15,7 +16,6 @@
 ### csv
 * [csvlint](https://csvlint.io/) - validation and linting suggestions
 * [data-curator](https://github.com/qcif/data-curator) - desktop csv editor and validator suitable for preparing open data
-* [backofyourhand](https://backofyourhand.com/51.44523,-0.01957/EMUSLX) - test your street knowledge
 
 ### dashboards
 * [IMD](https://app.powerbi.com/view?r=eyJrIjoiOTdjYzIyNTMtMTcxNi00YmQ2LWI1YzgtMTUyYzMxOWQ3NzQ2IiwidCI6ImJmMzQ2ODEwLTljN2QtNDNkZS1hODcyLTI0YTJlZjM5OTVhOCJ9)
