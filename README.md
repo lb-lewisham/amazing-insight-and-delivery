@@ -104,7 +104,11 @@
 * [ft visual vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
 * [visualization curriculum](https://uwdata.github.io/visualization-curriculum/intro.html)
 * [color brewer](https://colorbrewer2.org/)
-* [i want hue](https://medialab.github.io/iwanthue/)
+* [i want hue](https://medialab.github.io/iwanthue
+* [viz-palette](https://projects.susielu.com/viz-palette)
+* [chromajs palette generator](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)
+* [coolors 1 colour palette](https://coolors.co/00b7eb)
+* [coolors 2 colour palette](https://coolors.co/gradient-palette/00b7eb-fee05c?number=6)
 * Treemaps
   * [darknet markets](http://datavis.dekstop.de/darknet/20170811-treemap/)
   * [billion-pound-o-gram](https://informationisbeautiful.net/visualizations/the-billion-pound-o-gram/)
