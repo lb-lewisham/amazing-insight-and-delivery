@@ -33,7 +33,7 @@
 * [council tax QRC4](https://www.gov.uk/government/statistics/collection-rates-for-council-tax-and-non-domestic-rates-in-england-2015-to-2016)
 * [epc data](https://epc.opendatacommunities.org/) - registration required
 * [imd](https://data.london.gov.uk/dataset/indices-of-deprivation) - cut for london (also see [analysis](https://data.london.gov.uk/blog/indices-of-deprivation-2019-initial-analysis/))
-* [hesa](https://www.hesa.ac.uk/data-and-analysis)
+* [hesa](https://www.hesa.ac.uk/data-and-analysis) - higher education data
 
 ### geojson
 * [geojson tools](https://geojson.tools/)
