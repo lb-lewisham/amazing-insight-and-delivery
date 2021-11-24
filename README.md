@@ -89,7 +89,7 @@
 * [Full Stack Service Design](http://sarah-drummond.com/full-stack-service-design/) - A model that helps people to break services down into parts
 
 ### sqlite
-* [datasette](https://datasette.io/) - a data warehouse, website and api with many plugins
+* [datasette](https://datasette.io/) - an open source multi-tool for exploring and publishing data
 
 ### strategy
 * [dwp principles](https://dataingovernment.blog.gov.uk/2021/10/19/developing-a-data-strategy-and-delivering-it/)
