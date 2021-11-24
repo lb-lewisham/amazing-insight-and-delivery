@@ -18,7 +18,7 @@
 * [data-curator](https://github.com/qcif/data-curator) - desktop csv editor and validator suitable for preparing open data
 
 ### dashboards
-* [IMD](https://app.powerbi.com/view?r=eyJrIjoiOTdjYzIyNTMtMTcxNi00YmQ2LWI1YzgtMTUyYzMxOWQ3NzQ2IiwidCI6ImJmMzQ2ODEwLTljN2QtNDNkZS1hODcyLTI0YTJlZjM5OTVhOCJ9)
+* [imd](https://app.powerbi.com/view?r=eyJrIjoiOTdjYzIyNTMtMTcxNi00YmQ2LWI1YzgtMTUyYzMxOWQ3NzQ2IiwidCI6ImJmMzQ2ODEwLTljN2QtNDNkZS1hODcyLTI0YTJlZjM5OTVhOCJ9)
 
 ### data governance
 * [example of documents](https://www.octopai.com/data-dictionary-vs-business-glossary/)
@@ -32,7 +32,8 @@
 * [datastore](https://data.london.gov.uk/dataset?tag=lewisham&q=) - gla datasets tagged with lewisham
 * [council tax QRC4](https://www.gov.uk/government/statistics/collection-rates-for-council-tax-and-non-domestic-rates-in-england-2015-to-2016)
 * [epc data](https://epc.opendatacommunities.org/) - registration required
-* [IMD](https://data.london.gov.uk/dataset/indices-of-deprivation) - cut for london (also see [analysis](https://data.london.gov.uk/blog/indices-of-deprivation-2019-initial-analysis/))
+* [imd](https://data.london.gov.uk/dataset/indices-of-deprivation) - cut for london (also see [analysis](https://data.london.gov.uk/blog/indices-of-deprivation-2019-initial-analysis/))
+* [hesa](https://www.hesa.ac.uk/data-and-analysis)
 
 ### geojson
 * [geojson tools](https://geojson.tools/)
