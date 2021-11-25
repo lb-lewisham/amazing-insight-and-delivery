@@ -85,6 +85,9 @@
 * starting out in stockport [part 1](https://www.digitalstockport.info/my-journey-into-service-design-in-local-government-part-1-learning-points/) / [part 2](https://www.digitalstockport.info/my-journey-into-service-design-in-local-government-part-2-new-opportunities/)
 * [service design tools](https://servicedesigntools.org/)
 * [emergency housing design](https://www.designcouncil.org.uk/resources/case-study/lewisham-council) - case study of the design council housing work for lewisham
+* [A beginner’s guide to what service design is not](https://medium.com/@Howard_C/a-beginners-guide-to-what-service-design-is-not-40884a856fd)
+* [“So, like, what is service design?”](https://medium.com/@shahrsays/so-what-actually-is-service-design-e0ed602b77a9)
+* [Comparing service design and business analysis](https://medium.com/leading-service-design/comparing-service-design-and-business-analysis-aed52d8ea8fb) - Differences and similarities between service design and business analysis
 * [Good services](https://loudowne.com/2018/06/14/15-principles-of-good-service-design/) - 15 principles of good service design
 * [Full Stack Service Design](http://sarah-drummond.com/full-stack-service-design/) - A model that helps people to break services down into parts
 
