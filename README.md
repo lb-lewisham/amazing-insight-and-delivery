@@ -97,9 +97,11 @@
 ### strategy
 * [dwp principles](https://dataingovernment.blog.gov.uk/2021/10/19/developing-a-data-strategy-and-delivering-it/)
 * [adult social care](https://www.gov.uk/government/publications/data-saves-lives-reshaping-health-and-social-care-with-data-draft/data-saves-lives-reshaping-health-and-social-care-with-data-draft#improving-data-for-adult-social-care)
-* [data maturity assessment](https://datamaturity.esd.org.uk/)
+* [esd data maturity assessment](https://datamaturity.esd.org.uk/)
 * [better use of data](https://www.local.gov.uk/our-support/research-and-data/data-and-transparency/better-use-data)
+* [data orchard framework](https://static1.squarespace.com/static/5d514d1775e9c90001345670/t/5d9f402df0b6312eb6c55f69/1570717742668/Data+Orchard+Data+Maturity+Framework+NFP+Sector+2019.pdf)
 * [gloucestershire data management strategy](https://www.gloucestershire.gov.uk/media/2088939/2019-info-data-management-strategy-v1-0.pdf)
+* [centralgov data quality](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework-guidance#communicating-data-quality-to-users)
 
 ### visualisation
 * [data-to-viz](https://www.data-to-viz.com/)
