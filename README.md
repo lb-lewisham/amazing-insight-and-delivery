@@ -102,6 +102,7 @@
 * [data orchard framework](https://static1.squarespace.com/static/5d514d1775e9c90001345670/t/5d9f402df0b6312eb6c55f69/1570717742668/Data+Orchard+Data+Maturity+Framework+NFP+Sector+2019.pdf)
 * [gloucestershire data management strategy](https://www.gloucestershire.gov.uk/media/2088939/2019-info-data-management-strategy-v1-0.pdf)
 * [centralgov data quality](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework-guidance#communicating-data-quality-to-users)
+* [loti data quality](https://docs.google.com/presentation/d/13XRUEENu7qySmwJOG_MKOnYwGDka7w0fk4YZsLpI2ho/edit#slide=id.gf1d15e10aa_0_72)
 
 ### visualisation
 * [data-to-viz](https://www.data-to-viz.com/)
