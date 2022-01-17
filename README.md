@@ -118,3 +118,5 @@
 * Treemaps
   * [darknet markets](http://datavis.dekstop.de/darknet/20170811-treemap/)
   * [billion-pound-o-gram](https://informationisbeautiful.net/visualizations/the-billion-pound-o-gram/)
+* [infogram](https://infogram.com/) - as used by [wandsworth](https://www.datawand.info/indices-of-deprivation-2019/)
+
