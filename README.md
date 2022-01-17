@@ -1,5 +1,8 @@
 ## amazing insight and delivery
 
+### accessibility
+* [understanding wcag](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
+
 ### benchmarking
 * [ifs local](https://ifs.org.uk/research/local-dashboard)
 * [lginform](https://lginform.local.gov.uk/reports/view/lga-research/lga-research-report-headline-report-bar-charts?mod-area=E09000023&mod-group=AllBoroughInRegion_London&mod-type=namedComparisonGroup)
@@ -121,4 +124,6 @@
   * [darknet markets](http://datavis.dekstop.de/darknet/20170811-treemap/)
   * [billion-pound-o-gram](https://informationisbeautiful.net/visualizations/the-billion-pound-o-gram/)
 * [infogram](https://infogram.com/) - as used by [wandsworth](https://www.datawand.info/indices-of-deprivation-2019/)
+* [wcag in relation to vega-lite](https://github.com/vega/vega-lite/issues/6603)
+* [data vis](https://www.betterment.com/design/accessible-data-visualization)
 
