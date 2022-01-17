@@ -23,6 +23,7 @@
 ### data governance
 * [example of documents](https://www.octopai.com/data-dictionary-vs-business-glossary/)
 * [glossary/dictionary/catalogue](https://03cd0a8.netsolhost.com/wordpress/?p=303)
+* [https://lb-lewisham.github.io/data-governance/]()
 
 ### datasets (open data)
 * [commonplaces](https://duckduckgo.com/?q=site%3A+commonplace.is+lewisham&t=ffab&atb=v265-1&ia=web) - collection of commonplac.es consultations for lewisham
@@ -103,6 +104,7 @@
 * [gloucestershire data management strategy](https://www.gloucestershire.gov.uk/media/2088939/2019-info-data-management-strategy-v1-0.pdf)
 * [centralgov data quality](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework-guidance#communicating-data-quality-to-users)
 * [loti data quality](https://docs.google.com/presentation/d/13XRUEENu7qySmwJOG_MKOnYwGDka7w0fk4YZsLpI2ho/edit#slide=id.gf1d15e10aa_0_72)
+* [national data strategy](https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy#the-pillars) - description of the key elements underpinning effective use of data
 
 ### visualisation
 * [data-to-viz](https://www.data-to-viz.com/)
