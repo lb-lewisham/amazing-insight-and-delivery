@@ -16,6 +16,10 @@
 ### chatbots
 * [council chatbots](https://futr.ai/ai-in-local-government-3-fascinating-examples/?hss_channel=tw-992422381699371013)
 
+### cleaning
+* [pyjanitor](https://pyjanitor-devs.github.io/pyjanitor/api/functions/)
+* [data cleaning 101](https://github.com/kjam/data-cleaning-101)
+
 ### csv
 * [csvlint](https://csvlint.io/) - validation and linting suggestions
 * [data-curator](https://github.com/qcif/data-curator) - desktop csv editor and validator suitable for preparing open data
