@@ -94,6 +94,7 @@
 * [Comparing service design and business analysis](https://medium.com/leading-service-design/comparing-service-design-and-business-analysis-aed52d8ea8fb) - Differences and similarities between service design and business analysis
 * [Good services](https://loudowne.com/2018/06/14/15-principles-of-good-service-design/) - 15 principles of good service design
 * [Full Stack Service Design](http://sarah-drummond.com/full-stack-service-design/) - A model that helps people to break services down into parts
+* [Design methods for developing services](https://www.designcouncil.org.uk/sites/default/files/asset/document/Design%20methods%20for%20developing%20services.pdf)
 
 ### sqlite
 * [datasette](https://datasette.io/) - an open source multi-tool for exploring and publishing data
