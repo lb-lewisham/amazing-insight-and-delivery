@@ -99,6 +99,7 @@
 * [Good services](https://loudowne.com/2018/06/14/15-principles-of-good-service-design/) - 15 principles of good service design
 * [Full Stack Service Design](http://sarah-drummond.com/full-stack-service-design/) - A model that helps people to break services down into parts
 * [Design methods for developing services](https://www.designcouncil.org.uk/sites/default/files/asset/document/Design%20methods%20for%20developing%20services.pdf)
+* [data and design](https://medium.com/design-council/going-hand-in-hand-data-and-design-386f9294d36f)
 
 ### sqlite
 * [datasette](https://datasette.io/) - an open source multi-tool for exploring and publishing data
