@@ -66,6 +66,9 @@
 * [jq playground](https://www.jqkungfu.com/)
 * [jsonlint](https://jsonlint.com/)
 
+### open standards
+* [the great deverticalisation](https://www.computerweekly.com/opinion/The-great-deverticalisation-part-1-the-street) the case for decentralised, horizontal integration by use of data standards
+
 ### openstreetmap
 * [overpass turbo](https://overpass-turbo.eu/) - feature query tool
 * [node/way/relation history](http://osm.mapki.com/history/) - prior changesets for a given feature
