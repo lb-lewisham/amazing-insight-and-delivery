@@ -20,6 +20,9 @@
 * [pyjanitor](https://pyjanitor-devs.github.io/pyjanitor/api/functions/)
 * [data cleaning 101](https://github.com/kjam/data-cleaning-101)
 
+### coding
+* [snippet generator](https://snippet-generator.app/?description=anchor+href+and+link+to+ToC&tabtrigger=anchorHref&snippet=%3Ca+class%3D%22anchor%22+id%3D%22%241%22%3E%3C%2Fa%3E+%5B%E2%AC%86%5D%28%23%24%7B2%3Atoc%7D%29&mode=vscode) - works for sublime, code, and atom
+
 ### csv
 * [csvlint](https://csvlint.io/) - validation and linting suggestions
 * [data-curator](https://github.com/qcif/data-curator) - desktop csv editor and validator suitable for preparing open data
