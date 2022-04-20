@@ -53,10 +53,11 @@
 * [reconciling statistical and administrative geometries](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/methodologynoteonproductionofsmallareapopulationestimatesoctober2017#methods)
 * [mapshaper](https://mapshaper.org/) - a wide range of geometry tools
 * [turf.js](https://turfjs.org/) - analysis tools
+* [zoomstack basemaps on qgis](https://github.com/maptiler/qgis-maptiler-plugin#feature--usage) OS vector basemaps are free
 
 ### git
 
-* [oh-my-zsh on git bash](https://gist.github.com/fworks/af4c896c9de47d827d4caa6fd7154b6b?permalink_comment_id=4129435) oh-my-zsh has a great git plugin as standard
+* [oh-my-zsh on git bash](https://gist.github.com/fworks/af4c896c9de47d827d4caa6fd7154b6b?permalink_comment_id=4129435) oh-my-zsh has a great [git plugin](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh) as standard
 
 ### git-scraping
 * [flat data](https://next.github.com/projects/flat-data) - scraping and flattening data for inclusion in tables
