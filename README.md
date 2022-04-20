@@ -43,6 +43,9 @@
 * [imd](https://data.london.gov.uk/dataset/indices-of-deprivation) - cut for london (also see [analysis](https://data.london.gov.uk/blog/indices-of-deprivation-2019-initial-analysis/))
 * [hesa](https://www.hesa.ac.uk/data-and-analysis) - higher education data
 
+### ethics
+* [camden data charter](https://www.camden.gov.uk/data-charter) a clear approach to linked data projects
+
 ### geojson
 * [geojson tools](https://geojson.tools/)
 * [geojsonlint](https://geojsonlint.com/)
