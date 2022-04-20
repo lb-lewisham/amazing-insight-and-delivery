@@ -22,13 +22,20 @@
 
 ### coding
 * [snippet generator](https://snippet-generator.app/?description=anchor+href+and+link+to+ToC&tabtrigger=anchorHref&snippet=%3Ca+class%3D%22anchor%22+id%3D%22%241%22%3E%3C%2Fa%3E+%5B%E2%AC%86%5D%28%23%24%7B2%3Atoc%7D%29&mode=vscode) - works for sublime, code, and atom
+* [testing notebooks](https://gist.github.com/SergiyKolesnikov/f94d91b947051ab5d2ba1aa30e25f050#file-test_and_debug-ipynb) - the doctest pattern is interesting as it embeds good practice in relation to documentation as well as testing
 
 ### csv
 * [csvlint](https://csvlint.io/) - validation and linting suggestions
 * [data-curator](https://github.com/qcif/data-curator) - desktop csv editor and validator suitable for preparing open data
+* [xl-to-csv](https://gist.github.com/tonyerskine/77250575b166bec997f33a679a0dfbe4) - windows script to batch convert xl to csv
 
 ### dashboards
 * [imd](https://app.powerbi.com/view?r=eyJrIjoiOTdjYzIyNTMtMTcxNi00YmQ2LWI1YzgtMTUyYzMxOWQ3NzQ2IiwidCI6ImJmMzQ2ODEwLTljN2QtNDNkZS1hODcyLTI0YTJlZjM5OTVhOCJ9)
+
+### data architecture
+* [pattern analysis](https://medium.com/swlh/the-5-data-store-patterns-data-lakes-data-hubs-data-virtualization-data-federation-data-27fd75486e2c) - 5-data-store-patterns-data-lakes-data-hubs-data-virtualization-data-federation-data
+* https://miktysh.com.au/data-lake-vs-data-warehouse-vs-data-hub-whats-the-difference/ - data-lake-vs-data-warehouse-vs-data-hub-whats-the-difference
+* https://www.semarchy.com/blog/how-to-differentiate-a-data-hub-a-data-lake-and-a-data-warehouse/ - how-to-differentiate-a-data-hub-a-data-lake-and-a-data-warehouse
 
 ### data governance
 * [example of documents](https://www.octopai.com/data-dictionary-vs-business-glossary/)
@@ -47,7 +54,8 @@
 * [hesa](https://www.hesa.ac.uk/data-and-analysis) - higher education data
 
 ### ethics
-* [camden data charter](https://www.camden.gov.uk/data-charter) a clear approach to linked data projects
+* [camden data charter](https://www.camden.gov.uk/data-charter) - a clear approach to linked data projects
+* [haunted by data](https://idlewords.com/talks/haunted_by_data.htm) - the ethical implications of the longevity of data
 
 ### geojson
 * [geojson tools](https://geojson.tools/)
@@ -60,12 +68,14 @@
 * [mapshaper](https://mapshaper.org/) - a wide range of geometry tools
 * [turf.js](https://turfjs.org/) - analysis tools
 * [zoomstack basemaps on qgis](https://github.com/maptiler/qgis-maptiler-plugin#feature--usage) - ordnance survey vector basemaps are free
+* [adding glow to features](https://gis.stackexchange.com/questions/321795/qgis-3-how-to-create-glow-on-layer-with-gradient-symbology) - if you want features to pop off the basemap, try making them glow
 
 ### git
 
 * [oh-my-zsh on git bash](https://gist.github.com/fworks/af4c896c9de47d827d4caa6fd7154b6b?permalink_comment_id=4129435) - oh-my-zsh has a great [git plugin](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh) as standard
-
-### git-scraping
+* [daff](http://paulfitz.github.io/daff/) - data diff in git
+* [git-xl](https://www.xltrail.com/git-xl) - diff spreadsheets
+* [dvc](https://github.com/iterative/dvc) - versioning data and models
 * [flat data](https://next.github.com/projects/flat-data) - scraping and flattening data for inclusion in tables
 * [simon willison's posts](https://simonwillison.net/tags/gitscraping/)
 
@@ -93,7 +103,7 @@
 * [black](https://github.com/psf/black) - blackened code makes for the smallest possible diffs
 * [cookiecutter](https://github.com/cookiecutter/cookiecutter) - templating project files, the [datascience](https://drivendata.github.io/cookiecutter-data-science/) one is good for having a common ground when working jointly 
 
-### research
+### reading
 * Vogl, T. (2021) [Artificial Intelligence in Local Government: Enabling Artificial Intelligence for Good Governance in UK Local Authorities](http://dx.doi.org/10.2139/ssrn.3840222).
 * Vogl, T.M., Seidelin, C., Ganesh, B. and Bright, J. (2020) "[Smart technology and the emergence of algorithmic bureaucracy: artificial intelligence in UK local authorities](http://dx.doi.org/10.1111/puar.13286)"
 * Ng, Andrew, (2020) [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
@@ -102,6 +112,7 @@
 * Behavioural Insight Team. (2010) [EAST: Four Simple Ways to Apply Behavioural Insights](https://www.bi.team/wp-content/uploads/2015/07/BIT-Publication-EAST_FA_WEB.pdf)
 * Policy in Practice. (2020) [Council Tax debt collection and low-income Londoners
 ](https://policyinpractice.co.uk/wp-content/uploads/Council-Tax-debt-collection-and-low-income-Londoners_GLA_pub.pdf)
+* [data science handbook](https://app.gumroad.com/d/e3a17ca0214ad4c24f9a40be70234376) - interviews with the people who defined the field of data science
 
 ### service design
 * [list of local government services](https://standards.esd.org.uk/?uri=list%2FenglishAndWelshServices)
