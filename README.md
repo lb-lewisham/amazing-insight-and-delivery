@@ -56,11 +56,11 @@
 * [reconciling statistical and administrative geometries](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/methodologynoteonproductionofsmallareapopulationestimatesoctober2017#methods)
 * [mapshaper](https://mapshaper.org/) - a wide range of geometry tools
 * [turf.js](https://turfjs.org/) - analysis tools
-* [zoomstack basemaps on qgis](https://github.com/maptiler/qgis-maptiler-plugin#feature--usage) OS vector basemaps are free
+* [zoomstack basemaps on qgis](https://github.com/maptiler/qgis-maptiler-plugin#feature--usage) - ordnance survey vector basemaps are free
 
 ### git
 
-* [oh-my-zsh on git bash](https://gist.github.com/fworks/af4c896c9de47d827d4caa6fd7154b6b?permalink_comment_id=4129435) oh-my-zsh has a great [git plugin](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh) as standard
+* [oh-my-zsh on git bash](https://gist.github.com/fworks/af4c896c9de47d827d4caa6fd7154b6b?permalink_comment_id=4129435) - oh-my-zsh has a great [git plugin](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh) as standard
 
 ### git-scraping
 * [flat data](https://next.github.com/projects/flat-data) - scraping and flattening data for inclusion in tables
@@ -75,7 +75,7 @@
 * [jsonlint](https://jsonlint.com/)
 
 ### open standards
-* [the great deverticalisation](https://www.computerweekly.com/opinion/The-great-deverticalisation-part-1-the-street) the case for decentralised, horizontal integration by use of data standards
+* [the great deverticalisation](https://www.computerweekly.com/opinion/The-great-deverticalisation-part-1-the-street) - the case for decentralised, horizontal integration by use of data standards
 
 ### openstreetmap
 * [overpass turbo](https://overpass-turbo.eu/) - feature query tool
@@ -88,6 +88,7 @@
 
 ### python
 * [black](https://github.com/psf/black) - blackened code makes for the smallest possible diffs
+* [cookiecutter](https://github.com/cookiecutter/cookiecutter) - templating project files, the [datascience](https://drivendata.github.io/cookiecutter-data-science/) one is good for having a common ground when working jointly 
 
 ### research
 * Vogl, T. (2021) [Artificial Intelligence in Local Government: Enabling Artificial Intelligence for Good Governance in UK Local Authorities](http://dx.doi.org/10.2139/ssrn.3840222).
@@ -115,7 +116,7 @@
 * [improving council tax collection in north lincolnshire](https://drive.google.com/file/d/1HKM9_RhF7t0STKpOUasu3MwuAxQ4g62I/view)
 
 ### sparql
-* [yaqui](https://github.com/TriplyDB/Yasgui) a neat triple-store query tool
+* [yaqui](https://github.com/TriplyDB/Yasgui) - a neat triple-store query tool
 
 ### sqlite
 * [datasette](https://datasette.io/) - an open source multi-tool for exploring and publishing data
