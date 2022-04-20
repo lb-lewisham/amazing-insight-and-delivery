@@ -104,15 +104,17 @@
 * [cookiecutter](https://github.com/cookiecutter/cookiecutter) - templating project files, the [datascience](https://drivendata.github.io/cookiecutter-data-science/) one is good for having a common ground when working jointly 
 
 ### reading
+* [data science handbook](https://app.gumroad.com/d/e3a17ca0214ad4c24f9a40be70234376) - interviews with the people who defined the field of data science
+
+### research
 * Vogl, T. (2021) [Artificial Intelligence in Local Government: Enabling Artificial Intelligence for Good Governance in UK Local Authorities](http://dx.doi.org/10.2139/ssrn.3840222).
-* Vogl, T.M., Seidelin, C., Ganesh, B. and Bright, J. (2020) "[Smart technology and the emergence of algorithmic bureaucracy: artificial intelligence in UK local authorities](http://dx.doi.org/10.1111/puar.13286)"
+* Vogl, T.M., Seidelin, C., Ganesh, B. and Bright, J. (2020) [Smart technology and the emergence of algorithmic bureaucracy: artificial intelligence in UK local authorities](http://dx.doi.org/10.1111/puar.13286)
 * Ng, Andrew, (2020) [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
-* Bright, J., Ganesh, B., Seidelin, C. and Vogl, T.M. (2019) "[Data Science for Local Government](http://dx.doi.org/10.2139/ssrn.3370217)", SSRN Electronic Journal.
-* Bright, J.M., Lee, S.M., MARGETTS, H., Wang, N. and Hale, S. (2019) "[Explaining Download Patterns in Open Government Data: Citizen participation or private enterprise?](http://dx.doi.org/10.1504/ijeg.2019.101499)"
+* Bright, J., Ganesh, B., Seidelin, C. and Vogl, T.M. (2019) [Data Science for Local Government](http://dx.doi.org/10.2139/ssrn.3370217), SSRN Electronic Journal.
+* Bright, J.M., Lee, S.M., MARGETTS, H., Wang, N. and Hale, S. (2019) [Explaining Download Patterns in Open Government Data: Citizen participation or private enterprise?](http://dx.doi.org/10.1504/ijeg.2019.101499)
 * Behavioural Insight Team. (2010) [EAST: Four Simple Ways to Apply Behavioural Insights](https://www.bi.team/wp-content/uploads/2015/07/BIT-Publication-EAST_FA_WEB.pdf)
 * Policy in Practice. (2020) [Council Tax debt collection and low-income Londoners
 ](https://policyinpractice.co.uk/wp-content/uploads/Council-Tax-debt-collection-and-low-income-Londoners_GLA_pub.pdf)
-* [data science handbook](https://app.gumroad.com/d/e3a17ca0214ad4c24f9a40be70234376) - interviews with the people who defined the field of data science
 
 ### service design
 * [list of local government services](https://standards.esd.org.uk/?uri=list%2FenglishAndWelshServices)
