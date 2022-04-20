@@ -54,6 +54,10 @@
 * [mapshaper](https://mapshaper.org/) - a wide range of geometry tools
 * [turf.js](https://turfjs.org/) - analysis tools
 
+### git
+
+* [oh-my-zsh on git bash](https://gist.github.com/fworks/af4c896c9de47d827d4caa6fd7154b6b?permalink_comment_id=4129435) oh-my-zsh has a great git plugin as standard
+
 ### git-scraping
 * [flat data](https://next.github.com/projects/flat-data) - scraping and flattening data for inclusion in tables
 * [simon willison's posts](https://simonwillison.net/tags/gitscraping/)
