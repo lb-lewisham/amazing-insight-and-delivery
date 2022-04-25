@@ -115,6 +115,9 @@
 * Behavioural Insight Team. (2010) [EAST: Four Simple Ways to Apply Behavioural Insights](https://www.bi.team/wp-content/uploads/2015/07/BIT-Publication-EAST_FA_WEB.pdf)
 * Policy in Practice. (2020) [Council Tax debt collection and low-income Londoners
 ](https://policyinpractice.co.uk/wp-content/uploads/Council-Tax-debt-collection-and-low-income-Londoners_GLA_pub.pdf)
+* [A comparison of machine learning methods for
+predicting recurrence and death after curative-intent
+radiotherapy](https://www.thelancet.com/action/showPdf?pii=S2352-3964%2822%2900095-0)
 
 ### service design
 * [list of local government services](https://standards.esd.org.uk/?uri=list%2FenglishAndWelshServices)
