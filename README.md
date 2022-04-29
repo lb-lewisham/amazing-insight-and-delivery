@@ -99,6 +99,9 @@
 * [conflation for councils](https://github.com/systemed/conflation) - tool for manually merging third party datasets
 * [mapcomplete](https://mapcomplete.osm.be/cafes_and_pubs.html?z=13&lat=51.45357&lon=-0.01175&language=en) - thematic mapping (pubs/cafes example)
 
+### projects
+* [guesstimate](https://www.getguesstimate.com) - can be used to estimate the impact of a project (e.g. on saving money)
+
 ### python
 * [black](https://github.com/psf/black) - blackened code makes for the smallest possible diffs
 * [cookiecutter](https://github.com/cookiecutter/cookiecutter) - templating project files, the [datascience](https://drivendata.github.io/cookiecutter-data-science/) one is good for having a common ground when working jointly 
