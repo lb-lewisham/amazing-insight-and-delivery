@@ -139,6 +139,10 @@ radiotherapy](https://www.thelancet.com/action/showPdf?pii=S2352-3964%2822%29000
 * [behaviour and service design for ctax arrears in barking and dagenham](https://www.local.gov.uk/bi-podcast-transcription-barking-and-dagenham-2021)
 * [improving council tax collection in north lincolnshire](https://drive.google.com/file/d/1HKM9_RhF7t0STKpOUasu3MwuAxQ4g62I/view)
 
+### sharing
+* [send.vis.ee](https://send.vis.ee/) - community fork of mozilla send's safe sharing
+* [wormhole](wormhole.app/) - webtorrent based safe sharing by feross
+
 ### sparql
 * [yaqui](https://github.com/TriplyDB/Yasgui) - a neat triple-store query tool
 
