@@ -107,6 +107,7 @@
 * [cookiecutter](https://github.com/cookiecutter/cookiecutter) - templating project files, the [datascience](https://drivendata.github.io/cookiecutter-data-science/) one is good for having a common ground when working jointly 
 * [sharepoint/365 client](https://github.com/vgrem/Office365-REST-Python-Client) - make sure your credentials go in a non-versioned file!
 * [pyjanitor](https://pyjanitor-devs.github.io/pyjanitor/) - adopt neat data standards
+* [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - lehvenstein distance join options
 
 ### reading
 * [data science handbook](https://app.gumroad.com/d/e3a17ca0214ad4c24f9a40be70234376) - interviews with the people who defined the field of data science
