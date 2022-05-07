@@ -2,6 +2,7 @@
 
 ### accessibility
 * [understanding wcag](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
+* [empathy prompts](https://empathyprompts.net)
 
 ### benchmarking
 * [ifs local](https://ifs.org.uk/research/local-dashboard)
