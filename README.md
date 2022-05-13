@@ -4,6 +4,10 @@
 * [understanding wcag](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
 * [empathy prompts](https://empathyprompts.net)
 
+### behavioural science
+* [when nudges backfire](https://www.science.org/doi/10.1126/science.abm3427)
+* [behavioural nudges for ctax arrears in barking and dagenham](https://www.local.gov.uk/bi-podcast-transcription-barking-and-dagenham-2021)
+
 ### benchmarking
 * [ifs local](https://ifs.org.uk/research/local-dashboard)
 * [lginform](https://lginform.local.gov.uk/reports/view/lga-research/lga-research-report-headline-report-bar-charts?mod-area=E09000023&mod-group=AllBoroughInRegion_London&mod-type=namedComparisonGroup)
@@ -138,7 +142,6 @@ radiotherapy](https://www.thelancet.com/action/showPdf?pii=S2352-3964%2822%29000
 * [Full Stack Service Design](http://sarah-drummond.com/full-stack-service-design/) - A model that helps people to break services down into parts
 * [Design methods for developing services](https://www.designcouncil.org.uk/sites/default/files/asset/document/Design%20methods%20for%20developing%20services.pdf)
 * [data and design](https://medium.com/design-council/going-hand-in-hand-data-and-design-386f9294d36f)
-* [behaviour and service design for ctax arrears in barking and dagenham](https://www.local.gov.uk/bi-podcast-transcription-barking-and-dagenham-2021)
 * [improving council tax collection in north lincolnshire](https://drive.google.com/file/d/1HKM9_RhF7t0STKpOUasu3MwuAxQ4g62I/view)
 
 ### sharing
