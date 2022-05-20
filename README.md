@@ -1,12 +1,13 @@
 ## amazing insight and delivery
 
 ### accessibility
-* [understanding wcag](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
-* [empathy prompts](https://empathyprompts.net)
+* [understanding wcag](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag) - this article explains the P.O.U.R principle really well
+* [empathy prompts](https://empathyprompts.net) - a curious site that tries to put you in different shoes
 
 ### behavioural science
-* [when nudges backfire](https://www.science.org/doi/10.1126/science.abm3427)
-* [behavioural nudges for ctax arrears in barking and dagenham](https://www.local.gov.uk/bi-podcast-transcription-barking-and-dagenham-2021)
+* [when nudges backfire](https://www.science.org/doi/10.1126/science.abm3427) - according to this study, using nudge techniques can sometimes have undesired effects
+* Behavioural Insight Team. (2010) [EAST: Four Simple Ways to Apply Behavioural Insights](https://www.bi.team/wp-content/uploads/2015/07/BIT-Publication-EAST_FA_WEB.pdf)
+* [behavioural nudges for ctax arrears in barking and dagenham](https://www.local.gov.uk/bi-podcast-transcription-barking-and-dagenham-2021) - an example of the EAST framework in use
 
 ### benchmarking
 * [ifs local](https://ifs.org.uk/research/local-dashboard)
@@ -22,7 +23,6 @@
 * [council chatbots](https://futr.ai/ai-in-local-government-3-fascinating-examples/?hss_channel=tw-992422381699371013)
 
 ### cleaning
-* [pyjanitor](https://pyjanitor-devs.github.io/pyjanitor/api/functions/)
 * [data cleaning 101](https://github.com/kjam/data-cleaning-101)
 
 ### coding
@@ -60,12 +60,12 @@
 
 ### ethics
 * [camden data charter](https://www.camden.gov.uk/data-charter) - a clear approach to linked data projects
-* [haunted by data](https://idlewords.com/talks/haunted_by_data.htm) - the ethical implications of the longevity of data
+* [haunted by data](https://idlewords.com/talks/haunted_by_data.htm) - the ethical implications of the longevity of data, ceglowski shows parallels between data and nuclear waste
 
 ### geojson
 * [geojson tools](https://geojson.tools/)
 * [geojsonlint](https://geojsonlint.com/)
-* [conversion](https://ogre.adc4gis.com/)
+* [conversion](https://ogre.adc4gis.com/) - a handy utility for converting between geospatial formats
 * [csv2geojson](https://odileeds.github.io/CSV2GeoJSON/)
 
 ### geospatial analysis
@@ -81,11 +81,11 @@
 * [daff](http://paulfitz.github.io/daff/) - data diff in git
 * [git-xl](https://www.xltrail.com/git-xl) - diff spreadsheets
 * [dvc](https://github.com/iterative/dvc) - versioning data and models
-* [flat data](https://next.github.com/projects/flat-data) - scraping and flattening data for inclusion in tables
-* [simon willison's posts](https://simonwillison.net/tags/gitscraping/)
+* [flat data](https://next.github.com/projects/flat-data) - scraping and flattening data for inclusion in tables (also a good way to learn a bit of deno)
+* [simon willison's gitscraping posts](https://simonwillison.net/tags/gitscraping/) - simon has provided great examples of using git for data
 
 ### graph databases
-* [graph commons](https://graphcommons.com/graphs/406e9195-962e-42e6-abf7-8ed2739655c3)
+* [graph commons](https://graphcommons.com/graphs/406e9195-962e-42e6-abf7-8ed2739655c3) - some shared graphs
 
 ### json
 * [flattening with jq](https://til.simonwillison.net/jq/flatten-nested-json-objects-jq)
@@ -123,7 +123,6 @@
 * Ng, Andrew, (2020) [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
 * Bright, J., Ganesh, B., Seidelin, C. and Vogl, T.M. (2019) [Data Science for Local Government](http://dx.doi.org/10.2139/ssrn.3370217), SSRN Electronic Journal.
 * Bright, J.M., Lee, S.M., MARGETTS, H., Wang, N. and Hale, S. (2019) [Explaining Download Patterns in Open Government Data: Citizen participation or private enterprise?](http://dx.doi.org/10.1504/ijeg.2019.101499)
-* Behavioural Insight Team. (2010) [EAST: Four Simple Ways to Apply Behavioural Insights](https://www.bi.team/wp-content/uploads/2015/07/BIT-Publication-EAST_FA_WEB.pdf)
 * Policy in Practice. (2020) [Council Tax debt collection and low-income Londoners
 ](https://policyinpractice.co.uk/wp-content/uploads/Council-Tax-debt-collection-and-low-income-Londoners_GLA_pub.pdf)
 * [A comparison of machine learning methods for
@@ -176,9 +175,6 @@ radiotherapy](https://www.thelancet.com/action/showPdf?pii=S2352-3964%2822%29000
 * [chromajs palette generator](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)
 * [coolors 1 colour palette](https://coolors.co/00b7eb)
 * [coolors 2 colour palette](https://coolors.co/gradient-palette/00b7eb-fee05c?number=6)
-* Treemaps
-  * [darknet markets](http://datavis.dekstop.de/darknet/20170811-treemap/)
-  * [billion-pound-o-gram](https://informationisbeautiful.net/visualizations/the-billion-pound-o-gram/)
 * [infogram](https://infogram.com/) - as used by [wandsworth](https://www.datawand.info/indices-of-deprivation-2019/)
 * [wcag in relation to vega-lite](https://github.com/vega/vega-lite/issues/6603)
 * [data vis](https://www.betterment.com/design/accessible-data-visualization)
