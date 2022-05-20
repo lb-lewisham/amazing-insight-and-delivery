@@ -107,7 +107,7 @@
 ### projects
 * [guesstimate](https://www.getguesstimate.com) - can be used to estimate the impact of a project (e.g. on saving money)
 
-### python (specifically packages assisting teamwork)
+### python
 * [black](https://github.com/psf/black) - blackened code makes for the smallest possible diffs
 * [cookiecutter](https://github.com/cookiecutter/cookiecutter) - templating project files, the [datascience](https://drivendata.github.io/cookiecutter-data-science/) one is good for having a common ground when working jointly 
 * [sharepoint/365 client](https://github.com/vgrem/Office365-REST-Python-Client) - make sure your credentials go in a non-versioned file!
