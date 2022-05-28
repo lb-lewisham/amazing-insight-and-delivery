@@ -1,7 +1,7 @@
 ## amazing insight and delivery
 
 ### accessibility
-* [understanding wcag](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag) - this article explains the P.O.U.R principle really well
+  * [understanding wcag](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag) - this article explains the P.O.U.R principle really well
 * [empathy prompts](https://empathyprompts.net) - a curious site that tries to put you in different shoes
 
 ### behavioural science
@@ -132,6 +132,7 @@ radiotherapy](https://www.thelancet.com/action/showPdf?pii=S2352-3964%2822%29000
 ### service design
 * [list of local government services](https://standards.esd.org.uk/?uri=list%2FenglishAndWelshServices)
 * starting out in stockport [part 1](https://www.digitalstockport.info/my-journey-into-service-design-in-local-government-part-1-learning-points/) / [part 2](https://www.digitalstockport.info/my-journey-into-service-design-in-local-government-part-2-new-opportunities/)
+* [design methods for designing services](https://www.designcouncil.org.uk/sites/default/files/asset/document/Design%20methods%20for%20developing%20services.pdf) - how to use the double diamond and associated tools
 * [service design tools](https://servicedesigntools.org/)
 * [emergency housing design](https://www.designcouncil.org.uk/resources/case-study/lewisham-council) - case study of the design council housing work for lewisham
 * [A beginner’s guide to what service design is not](https://medium.com/@Howard_C/a-beginners-guide-to-what-service-design-is-not-40884a856fd)
