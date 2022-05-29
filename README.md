@@ -179,5 +179,6 @@ radiotherapy](https://www.thelancet.com/action/showPdf?pii=S2352-3964%2822%29000
 * [infogram](https://infogram.com/) - as used by [wandsworth](https://www.datawand.info/indices-of-deprivation-2019/)
 * [wcag in relation to vega-lite](https://github.com/vega/vega-lite/issues/6603)
 * [data vis](https://www.betterment.com/design/accessible-data-visualization)
-* [scrollytelling](https://www.theguardian.com/environment/ng-interactive/2021/oct/14/climate-change-happening-now-stats-graphs-maps-cop26)
+* [scrollytelling ecosystem](https://www.theguardian.com/environment/ng-interactive/2021/oct/14/climate-change-happening-now-stats-graphs-maps-cop26)
+* [scrollytelling deprivation](https://www.ons.gov.uk/visualisations/dvc1371/#/E09000030)
 * [color universal design (cud)](https://jfly.uni-koeln.de/color/)
