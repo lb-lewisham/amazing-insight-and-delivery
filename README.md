@@ -74,6 +74,7 @@
 * [turf.js](https://turfjs.org/) - analysis tools
 * [zoomstack basemaps on qgis](https://github.com/maptiler/qgis-maptiler-plugin#feature--usage) - ordnance survey vector basemaps are free
 * [adding glow to features](https://gis.stackexchange.com/questions/321795/qgis-3-how-to-create-glow-on-layer-with-gradient-symbology) - if you want features to pop off the basemap, try making them glow
+* [geomob podcasts](https://thegeomob.com/podcast/) - paul ramsey (postgis), ilya zyerev (openstreetmap), tom macwright (openstreetmap, mapbox, observable) and many of the greats
 
 ### git
 
@@ -147,6 +148,9 @@ radiotherapy](https://www.thelancet.com/action/showPdf?pii=S2352-3964%2822%29000
 ### sharing
 * [send.vis.ee](https://send.vis.ee/) - community fork of mozilla send's safe sharing
 * [wormhole](wormhole.app/) - webtorrent based safe sharing by feross
+
+### sonification
+* [loud numbers](https://www.loudnumbers.net) - musical tracks based on data
 
 ### sparql
 * [yaqui](https://github.com/TriplyDB/Yasgui) - a neat triple-store query tool
