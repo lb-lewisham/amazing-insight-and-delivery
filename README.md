@@ -61,6 +61,7 @@
 ### ethics
 * [camden data charter](https://www.camden.gov.uk/data-charter) - a clear approach to linked data projects
 * [haunted by data](https://idlewords.com/talks/haunted_by_data.htm) - the ethical implications of the longevity of data, ceglowski shows parallels between data and nuclear waste
+* [catalog of bias](https://catalogofbias.org)
 
 ### geojson
 * [geojson tools](https://geojson.tools/)
