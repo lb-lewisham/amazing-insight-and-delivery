@@ -186,4 +186,5 @@ radiotherapy](https://www.thelancet.com/action/showPdf?pii=S2352-3964%2822%29000
 * [data vis](https://www.betterment.com/design/accessible-data-visualization)
 * [scrollytelling ecosystem](https://www.theguardian.com/environment/ng-interactive/2021/oct/14/climate-change-happening-now-stats-graphs-maps-cop26)
 * [scrollytelling deprivation](https://www.ons.gov.uk/visualisations/dvc1371/#/E09000030)
+* [scrollytelling cost of living](https://www.theguardian.com/business/ng-interactive/2022/jun/21/cost-of-living-crisis-uk-households-charts-inflation)
 * [color universal design (cud)](https://jfly.uni-koeln.de/color/)
