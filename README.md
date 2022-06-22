@@ -42,11 +42,6 @@
 * https://miktysh.com.au/data-lake-vs-data-warehouse-vs-data-hub-whats-the-difference/ - data-lake-vs-data-warehouse-vs-data-hub-whats-the-difference
 * https://www.semarchy.com/blog/how-to-differentiate-a-data-hub-a-data-lake-and-a-data-warehouse/ - how-to-differentiate-a-data-hub-a-data-lake-and-a-data-warehouse
 
-### data governance
-* [example of documents](https://www.octopai.com/data-dictionary-vs-business-glossary/)
-* [glossary/dictionary/catalogue](https://03cd0a8.netsolhost.com/wordpress/?p=303)
-* [https://lb-lewisham.github.io/data-governance/]()
-
 ### datasets (open data)
 * [commonplaces](https://duckduckgo.com/?q=site%3A+commonplace.is+lewisham&t=ffab&atb=v265-1&ia=web) - collection of commonplac.es consultations for lewisham
 * [fixymystreet](https://www.fixmystreet.com/open311/) - open api to envirocrime reporting
@@ -94,6 +89,11 @@
 * [jq playground](https://www.jqkungfu.com/)
 * [jsonlint](https://jsonlint.com/)
 
+### management of data
+* [example of documents](https://www.octopai.com/data-dictionary-vs-business-glossary/)
+* [glossary/dictionary/catalogue](https://03cd0a8.netsolhost.com/wordpress/?p=303)
+* [https://lb-lewisham.github.io/data-governance/]()
+
 ### open standards
 * [the great deverticalisation](https://www.computerweekly.com/opinion/The-great-deverticalisation-part-1-the-street) - the case for decentralised, horizontal integration by use of data standards
 
@@ -108,6 +108,7 @@
 
 ### projects
 * [guesstimate](https://www.getguesstimate.com) - can be used to estimate the impact of a project (e.g. on saving money)
+* [nesta's four point project plan](https://www.nesta.org.uk/blog/public-sector-data-analytics-four-steps/)
 
 ### python
 * [black](https://github.com/psf/black) - blackened code makes for the smallest possible diffs
