@@ -119,6 +119,7 @@
 
 ### reading
 * [data science handbook](https://app.gumroad.com/d/e3a17ca0214ad4c24f9a40be70234376) - interviews with the people who defined the field of data science
+* [history of scientific notebooks](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
 
 ### research
 * Vogl, T. (2021) [Artificial Intelligence in Local Government: Enabling Artificial Intelligence for Good Governance in UK Local Authorities](http://dx.doi.org/10.2139/ssrn.3840222).
